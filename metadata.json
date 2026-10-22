@@ -1,0 +1,6 @@
+{
+  "name": "台灣 3D 旅遊導覽與觀光集章冊",
+  "description": "結合 3D 互動台灣地圖、觀光百大景點、沈浸式重磅木印蓋章、智慧行程規劃與成就證書的台灣旅遊探索應用程式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
